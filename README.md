@@ -1,4 +1,6 @@
 # Routing
+Implemented Rounting to create SPA. 
+Used service to get the mock JSON data.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
